@@ -1,0 +1,6 @@
+matplotlib
+numpy
+PIL
+pandas
+io
+mpl_toolkits
