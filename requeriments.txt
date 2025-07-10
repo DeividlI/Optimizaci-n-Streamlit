@@ -1,6 +1,5 @@
+streamlit
 matplotlib
 numpy
-PIL
+Pillow
 pandas
-io
-mpl_toolkits
